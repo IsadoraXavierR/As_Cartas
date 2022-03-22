@@ -1,0 +1,23 @@
+    .container{
+        width: 90%;
+        height: 100%;
+        padding: 30px;
+        margin-left: 20px;
+        text-align: center;
+        border: 4px solid black;
+    }
+    .Texto{
+        width: 90%;
+        margin: 30px;
+        border: 2px solid;
+        }
+    body{
+        background-color: aqua;
+    }
+    .Escolhas{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+ 
