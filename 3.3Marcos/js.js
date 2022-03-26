@@ -58,7 +58,7 @@ function FaseTres(){
 
           var resposta = Number(prompt(' Atenção aos detalhes, responda com o calculo total'));  
           if( resposta == '30' ){
-              alert ('Parabéns, isso demonstra que você tem muita labia rs...')
+              alert ('Uau, você é esperto!!')
               window.location.href= "../3.3Marcos/Fase4.html"  
               break
         } else if (  resposta != '30' ) {
